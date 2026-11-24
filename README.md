@@ -70,7 +70,7 @@ Structured strictly according to uni-directional FSD specifications for enterpri
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/transflow-ai.git
+git clone https://github.com/mricky/transflow-ai.git
 cd transflow-ai
 
 # 2. Install dependencies
